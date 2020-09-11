@@ -1,0 +1,139 @@
+.nitem{
+  padding: 0 20px;
+}
+.mind{
+font-family: 'Yanone Kaffeesatz', cursive;
+word-spacing: 2px;
+color : #fff;
+}
+.love{
+  font-family: 'Pacifico', cursive;
+  padding: 0 30px;
+  color:#fff;
+}
+.fuck{
+  text-align: center;
+}
+.passage{
+  text-align: center;
+  line-height:1.5;
+  padding: 15%;
+}
+.first{
+  background-color: #1d2d50;
+}
+.img-world{
+  margin-top: 100px;
+}
+#title{
+
+}
+@media (max-width : 1020px) {
+  .img-world{
+    margin-top: 0;
+    margin-bottom:15%;
+  }
+  .passage{
+    padding: 15% 15% 5%;
+    text-align: center;
+    line-height:1.5;
+    width: 75%;
+
+  }
+  .love{
+    padding: 0 30px;
+  }
+  h4{
+    text-align: left;
+  }
+}
+.icon{
+  color: #1d2d50;
+  margin-bottom: 1rem;
+}
+.feature-box{
+  text-align: center;
+  padding: 10%;
+}
+#feature{
+  padding:7% 15%;
+font-family: 'pacifico';
+  background-color: #66BFBF;
+
+}
+h3{
+  font-size: 3rem;
+}
+.yyy{
+  color:#1d2d50;
+
+}
+#portfolio{
+  text-align: center;
+  background:#1d2d50;
+  color: #fff;
+  padding: 50px;
+
+}
+.port{
+  margin: 0 110px 110px 110px;
+  font-size: 4rem;
+  font-family: sans-serif;
+}
+h4{
+  font-family: 'pacifico';
+  width: 70%;
+
+}
+.lll{
+  padding-bottom: 5rem;
+}
+#testimonials{
+  background-color: #66BFBF;
+  text-align: center;
+  padding: 7% 15%;
+  font-family: 'pacifico', cursive;
+
+}
+.testimonials-img{
+width: 20%;
+border-radius: 100%;
+margin: 20px;
+text-align: center;
+}
+#cta{
+  background-color: #fff;
+  text-align: center;
+  padding:  7% 15%;
+  font-size: 3rem;
+  background-color: #1d2d50;
+
+}
+.ctac{
+  font-size: 3rem;
+  width: 80%;
+  line-height: 1.5;
+  margin-left: 100px;
+  font-family: monospace;
+  color: #fff;
+
+
+}
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #d6e0f0;
+}
+.h{
+  margin: 10px 10px;
+}
+.ln{
+  text-decoration: none;
+  color: #0060B6;
+
+}
+.ln:hover{
+  color: #00A0C6;
+  text-decoration: none;
+  cursor: pointer;
+}
